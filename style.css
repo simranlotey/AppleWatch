@@ -13,10 +13,6 @@
   background-color: #464b50;
 }
 
-body {
-  background-color: #464b50;
-}
-
 .container-section {
   display: flex;
   justify-content: center;
@@ -368,7 +364,7 @@ body {
     position: absolute;
     background-color: #fff;
     top: -26%;
-    right: 31.8%;
+    right: 32%;
     padding: 60.7px 0 108.9px 0;
     border-top-left-radius: 14px;
   }
@@ -432,7 +428,7 @@ body {
 
   .navbar-collapse {
     top: -26%;
-    right: 32.6%;
+    right: 32.7%;
     padding: 60.7px 0 159.9px 0;
   }
 
